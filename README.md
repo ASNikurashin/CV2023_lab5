@@ -29,7 +29,6 @@ Per-pixel accuracy:
 ![image](https://github.com/compfee/CV_2023_lab5/assets/55783463/4093f270-9ca5-4fc8-a7de-10c93e1c44dd)  
  
 
-| Ссылка на решение | 
-|-------------------|
-| [ноутбук](https://colab.research.google.com/drive/1GlwQykEUOPDI872hwenAO2j8Vaea44Zl?usp=sharing) |
-
+| Ссылка на решение | IOU |Per-pixel accuracy|AVG inference time (ms)|
+|-------------------|-----|------------------|-----------------------|
+| [ноутбук](https://colab.research.google.com/drive/1GlwQykEUOPDI872hwenAO2j8Vaea44Zl?usp=sharing) |0.53|0.69 |0.48|
