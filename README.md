@@ -29,7 +29,7 @@ Per-pixel accuracy:
 ![image](https://github.com/compfee/CV_2023_lab5/assets/55783463/4093f270-9ca5-4fc8-a7de-10c93e1c44dd)  
  
 
-| Ссылка на решение | Результат %| 
-|-------------------|-----------|
-| [ноутбук](https://colab.research.google.com/drive/1GEqhrpSFc_z5BXQPv6ZgoVvpgUcPiNKL#scrollTo=YA1mnnp7ipX_) | 0,84 |
-| [ноутбук](https://colab.research.google.com/drive/1BMN4zeCy2Hbp66rpzKiw8-UZUfQiMv0f?usp=sharing) | 0,93 |
+| Ссылка на решение | 
+|-------------------|
+| [ноутбук](https://colab.research.google.com/drive/1GlwQykEUOPDI872hwenAO2j8Vaea44Zl?usp=sharing) |
+
